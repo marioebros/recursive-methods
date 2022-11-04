@@ -12,6 +12,17 @@ function printChildrenRecursive(t) {
   });
 }
 
+printChildrenRecursive("Johnny");
+printChildrenRecursive("Jimmy");
+return;
+printChildrenRecursive("Zoe");
+printChildrenRecursive("Kyle");
+return;
+printChildrenRecursive("Sophia");
+return;
+return;
+return;
+
 const tree = {
   name: "Johnny",
   children: [
